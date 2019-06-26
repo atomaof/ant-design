@@ -66,6 +66,6 @@ ReactDOM.render(
 
 ```css
 #components-dropdown-demo-dropdown-button .ant-dropdown-button {
-  margin: 0 8px 8px 0;
+  margin: 0 20px 20px 0;
 }
 ```
